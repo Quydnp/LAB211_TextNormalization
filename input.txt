@@ -1,7 +1,7 @@
-; dinh ,. , , , huynh ;;'' thuan
+  dinh ,huynh "  THUAN  "
 
 toi   ten la . duong   NGUYEN "   PHU  qUY    " .
-,  toi   hoc  , lop se17d03 
+  toi   hoc  , lop se17d03 
 
 
 dAY    la   "  mon    hoc LAB   " hihihi  
